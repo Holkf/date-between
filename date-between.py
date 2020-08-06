@@ -6,3 +6,4 @@ delta = d1 - d0
 print(delta.days)
 
 #Da müssen Eingabemöglichkeiten her, sonst machts kein Spass
+#Es wird ein wenig dauern bis ich das noch erweitere
