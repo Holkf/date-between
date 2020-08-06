@@ -1,4 +1,5 @@
 #Einfache Berechnung ohne Eingabe des Users
+#da fehlt mir aktuell noch das Eingabeformat
 from datetime import date
 d0 = date(2017, 8, 18)
 d1 = date(2017, 10, 26)
